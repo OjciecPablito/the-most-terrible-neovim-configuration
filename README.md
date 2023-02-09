@@ -1,0 +1,1 @@
+# the-most-terrible-neovim-configuration
